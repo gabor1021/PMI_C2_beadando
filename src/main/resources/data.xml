@@ -49,4 +49,151 @@
         <time>12</time>
         <upgradePath>Normal</upgradePath>
     </n>
+    <n>
+        <name>Greataxe</name>
+        <type>Greataxe</type>
+        <cost>27500</cost>
+        <time>14</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Black Knight Greataxe</name>
+        <type>Greataxe</type>
+        <cost>145000</cost>
+        <time>0</time>
+        <upgradePath>Twinkling</upgradePath>
+    </n>
+    <n>
+        <name>Demon's Greataxe</name>
+        <type>Greataxe</type>
+        <cost>225000</cost>
+        <time>0</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Pike</name>
+        <type>Spear</type>
+        <cost>15250</cost>
+        <time>7</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Winged Spear</name>
+        <type>Spear</type>
+        <cost>17250</cost>
+        <time>8</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Silver Knight Spear</name>
+        <type>Spear</type>
+        <cost>105000</cost>
+        <time>0</time>
+        <upgradePath>Twinkling</upgradePath>
+    </n>
+    <n>
+        <name>Greatsword of Artorias</name>
+        <type>Greatsword</type>
+        <cost>300000</cost>
+        <time>0</time>
+        <upgradePath>Demon</upgradePath>
+    </n>
+    <n>
+        <name>Stone Greatsword</name>
+        <type>Greatsword</type>
+        <cost>135000</cost>
+        <time>0</time>
+        <upgradePath>Twinkling</upgradePath>
+    </n>
+    <n>
+        <name>Longsword</name>
+        <type>Straight Sword</type>
+        <cost>26250</cost>
+        <time>15</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Broken Straight Sword</name>
+        <type>Straight Sword</type>
+        <cost>4500</cost>
+        <time>2</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Gold Tracer</name>
+        <type>Curved Sword</type>
+        <cost>115000</cost>
+        <time>0</time>
+        <upgradePath>Twinkling</upgradePath>
+    </n>
+    <n>
+        <name>Scimitar</name>
+        <type>Curved Sword</type>
+        <cost>24000</cost>
+        <time>11</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Black Knight Halberd</name>
+        <type>Halberd</type>
+        <cost>155000</cost>
+        <time>0</time>
+        <upgradePath>Twinkling</upgradePath>
+    </n>
+    <n>
+        <name>Scythe</name>
+        <type>Halberd</type>
+        <cost>32125</cost>
+        <time>21</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Rapier</name>
+        <type>Thrusting Sword</type>
+        <cost>17500</cost>
+        <time>9</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Parrying Dagger</name>
+        <type>Dagger</type>
+        <cost>12000</cost>
+        <time>6</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Bandit's Knife</name>
+        <type>Dagger</type>
+        <cost>11000</cost>
+        <time>5</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Black Knight Greatsword</name>
+        <type>Ultra Greatsword</type>
+        <cost>175000</cost>
+        <time>0</time>
+        <upgradePath>Twinkling</upgradePath>
+    </n>
+    <n>
+        <name>Zweihander</name>
+        <type>Ultra Greatsword</type>
+        <cost>45000</cost>
+        <time>25</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Blacksmith Hammer</name>
+        <type>Hammer</type>
+        <cost>25000</cost>
+        <time>12</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Mace</name>
+        <type>Hammer</type>
+        <cost>26750</cost>
+        <time>13</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
 </Orders>
