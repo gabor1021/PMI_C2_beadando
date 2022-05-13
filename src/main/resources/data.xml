@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Orders>
+    <n>
+        <name>Club</name>
+        <type>Hammer</type>
+        <cost>2500</cost>
+        <time>1</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Battle Axe</name>
+        <type>Axe</type>
+        <cost>22500</cost>
+        <time>10</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Hand Axe</name>
+        <type>Axe</type>
+        <cost>15500</cost>
+        <time>8</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Great Club</name>
+        <type>Great Hammer</type>
+        <cost>6000</cost>
+        <time>3</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Smough's Hammer</name>
+        <type>Great Hammer</type>
+        <cost>265000</cost>
+        <time>0</time>
+        <upgradePath>Demon</upgradePath>
+    </n>
+    <n>
+        <name>Chaos Blade</name>
+        <type>Katana</type>
+        <cost>250000</cost>
+        <time>0</time>
+        <upgradePath>Demon</upgradePath>
+    </n>
+    <n>
+        <name>Uchigatana</name>
+        <type>Katana</type>
+        <cost>25000</cost>
+        <time>12</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+</Orders>

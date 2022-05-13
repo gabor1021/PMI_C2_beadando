@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Orders>
+    <n>
+        <name>Club</name>
+        <type>Hammer</type>
+        <cost>2500</cost>
+        <time>1</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Club</name>
+        <type>Hammer</type>
+        <cost>2500</cost>
+        <time>1</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+    <n>
+        <name>Club</name>
+        <type>Hammer</type>
+        <cost>2500</cost>
+        <time>1</time>
+        <upgradePath>Normal</upgradePath>
+    </n>
+</Orders>
